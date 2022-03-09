@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on johndoe</title>
+    <link>https://test.ynwim.dev/post/</link>
+    <description>Recent content in Posts on johndoe</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 09 Mar 2022 19:46:22 +0800</lastBuildDate><atom:link href="https://test.ynwim.dev/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ynwim的意思</title>
+      <link>https://test.ynwim.dev/post/ynwim/</link>
+      <pubDate>Wed, 09 Mar 2022 19:46:22 +0800</pubDate>
+      
+      <guid>https://test.ynwim.dev/post/ynwim/</guid>
+      <description>ynwim means you know who i am。在某些时候，匿名没有什么用。</description>
+    </item>
+    
+  </channel>
+</rss>
