@@ -1,4 +1,4 @@
-baseURL = "http://www.example.com"
+baseURL = "https://confident-lumiere-6753e5.netlify.app/"
 title = "ynwim"
 theme = "hugo-coder"
 languageCode = "en"
